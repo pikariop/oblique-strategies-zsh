@@ -19,6 +19,8 @@ plugins=(git obliquestrategies)
 
 The function `print_oblique` is now available. Do fun stuff with it. Like pipe it to [ponysay](https://github.com/erkin/ponysay) in `.zshrc` for a motd-like experience.
 
+![screencapture of ponysay in a terminal](https://github.com/pikariop/oblique-strategies-zsh/blob/master/ponysay-example.png)
+
 ## LICENSE
 
 The unlicense: I own nothing. Whatever it is I might have accidentally created here, I release to everyone under the terms of the license.
